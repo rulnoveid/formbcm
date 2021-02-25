@@ -80,7 +80,7 @@ ol, ul {
 }
 
 .zf-templateWidth { 
-	width:800px;
+	width:100%;
 	}
 
 .zf-templateWrapper {
@@ -185,7 +185,7 @@ ol, ul {
 
 .zf-subContWrap {
 	padding:0;
-	margin:10px;
+	margin:0;
 	margin-bottom:0;
 }
 
@@ -475,8 +475,9 @@ ol, ul {
 .zf-twoColumns .zf-tempContDiv span label {
 	line-height:21px;
 	display: block;
-	margin: 0 0 0 20px;
+	margin: 8px;
 	padding: 0 0 5px;
+	margin-left: 20px;
 }
 .zf-threeColumns .zf-tempContDiv span {
 	margin: 0 5px 13px 0;
